@@ -1,14 +1,14 @@
  <center>
-     <h1>XXX</h1>
+     <h1>xxx</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             15xxxxxxx
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             10xxxxx8@stu.ecnu.edu.cn
          </span>
 
  </center>
@@ -16,38 +16,44 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 性别：男
+  
  - 出生年份：2004.8.9
- - 求职意向：Java 研发工程师
- - 工作经验：0 年（校招可不填）
- - 期望薪资：0k（校招可不填）
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 硕士，XXXX大学，计算机科学与技术专业，2016.9~2019.7
-- 学士，XXXX大学，软件工程专业，2012.9~2016.7
-- 绩点：***，年级前 100%
+- 本科主修，ECNU，软件工程专业，在读
+  
+- 本科辅修，ECNU，汉语言专业，在读
+  
 - 通过了 CET4/6 英语等级考试
 
-## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+## <img src="assets/briefcase-solid.svg" width="30px"> 校园经历
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+- 加入过学院信息宣传部门。进行活动策划，推送发布，账号运营等工作
+ 
+- 参加2023ECNU“银杏杯”青春歌会合唱比赛，获得二等奖
 
-   负责 XXX
+## <img src="assets/project-diagram-solid.svg" width="30px"> 课程项目经历
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+- **基于YOLOv8的简单衣物识别**
 
-- **XXXX 项目**
+  利用PyQt5构建图形用户界面，并通过调用YOLOv8模型，对输入的图像和视频帧进行目标检测，构建了简单的衣物识别应用。
 
-  *使用到的技术*
+  理解并调用YOLOv8模型，通过从网上获取的数据集自行完成训练，加深对于深度学习和图像识别的实践认知。
+  
+- **bearpi LED控制与电路检测**
 
-  使用一两句话描述项目的主要功能，然后介绍自己在项目中的角色，解决了什么问题，使用什么方式解决，比别人的方法相比有什么优势（尽量用数据来说明）。
+  基于BearPi-HM Micro开发板完成智慧路灯与人体感应模块的嵌入式开发，实现通过触摸屏控制LED灯光及人体电流检测功能。
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+  涉及驱动开发、跨层架构设计、前端开发、系统集成。使用css，html，js，c++。
 
-- ★★★ Java
-- ★★☆ C++、Python
-- ★★★ MySQL
-- ★★★ Redis
-- ★★☆ Spring
-- ★☆☆ RabbitMQ、ZooKeeper
-- ★★☆ JavaScript
+- **简单汽车华容道游戏的JAVA实现**
+
+  基于JAVA语言，制作了一个一个鼠标交互的多关卡华容道游戏。
+
+  负责游戏相关UI制作。包括主菜单，暂停界面，游戏界面设计，以及按钮跳转实现。
+  
+  
+## <img src="assets/tools-solid.svg" width="30px"> 软件使用
+
+- Matlab, Simulink, Wireshark, Logisim, Modelsim, Keilv5, PS
